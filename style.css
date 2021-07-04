@@ -46,4 +46,65 @@ p {
     background-position: center;
 }
 
+.dream-laft{
+    width: 50%;
+}
+.dream-laft img{
+    width: 80%;
+    border-radius: 50%;
+}
+.dream-right{
+    width: 50%;
+    text-align: left;
+}
+.dream-big {
+    display: flex;
+    padding-top: 100px;
+    background-image: url(img/bg-img1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-top: 3px solid blue;
+}
+.dream-right h2 {
+    font-size: 50px;
+}
+
+.dream-right h3 {
+    font-size: 30px;
+    margin-top: 40px;
+}
+
+.dream-right p {
+    padding: 20px 30px 0px 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
